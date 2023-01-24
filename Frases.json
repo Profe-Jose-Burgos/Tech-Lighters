@@ -1,0 +1,42 @@
+{
+    "contenido": [
+        {
+            "tag": "saludos",
+            "patrones": [
+                "hola",
+                "hola que tal",
+                "buen dia"
+            ],
+            "respuestas": [
+                "Hola que tal!",
+                "como te va?",
+                "Hola, como le va"
+            ]
+        },
+        {
+            "tag": "despedida",
+            "patrones": [
+                "adios",
+                "hasta la proxima",
+                "nos vemos"
+            ],
+            "respuestas": [
+                "cuidese, vuelva pronto",
+                "hasta luego"
+            ]
+        },
+        {
+            "tag": "Saludos2",
+            "patrones": [
+                "Buenos dias",
+                "buenas noches",
+                "buenas tardes"
+            ],
+            "respuestas": [
+                "Como puedo ayudarle",
+                "hola como se encuentra",
+                "me da gusto verte"
+            ]
+        }
+    ]
+}
